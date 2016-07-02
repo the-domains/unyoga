@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-02T01:20:49.329Z'
+datePublished: '2016-07-02T02:12:50.920Z'
 sourcePath: _posts/2016-04-15-barcelona-go.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/98123388'
@@ -7,12 +7,9 @@ authors: []
 hasPage: false
 keywords: []
 related: []
-author:
-  - name: Rob Whitworth
-    url: 'http://vimeo.com/robwhitworth'
-    avatar: {}
-dateModified: '2016-07-02T01:20:48.759Z'
-title: Barcelona GO!
+author: []
+dateModified: '2016-07-02T01:59:54.289Z'
+title: Posture Clinic
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/98123388'
     type: ios
@@ -45,11 +42,7 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-description: >-
-  BARCELONA in Flow Motion - A fast moving short film.... Gold prize winner at
-  Timelapse Showfest 2014 In few other cities is it possible to walk from
-  spectacular location to spectacular location. I had a fantastic time
-  adventuring around Barcelona's winding streets making this film.
+description: 4 day bootcamp – $500 Anatomy – The language of the body
 inLanguage: null
 inNav: false
 starred: false
@@ -57,4 +50,38 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F98123388&amp;url=https%3A%2F%2Fvimeo.com%2F98123388&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F478770627_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+![Add Atma pic here](https://the-grid-user-content.s3-us-west-2.amazonaws.com/083e25ca-4cac-4b66-84f0-a0f8661a4120.jpg)
+
+# Posture Clinic
+
+4 day bootcamp -- $500  
+Anatomy -- The language of the body
+
+### **Part 1 **  
+_What is the human body? _  
+Connective tissue   
+Muscles   
+Joints   
+Nervous system   
+**Part 2**  
+_How do you maintain it? _  
+Move it (joints, glands, connective tissue)   
+Use it (muscle contraction and lengthening-aerobic and anaerobic)   
+Relax it (nervous sustem and muscles)   
+Feed it (total system)   
+15 principal poses and their musculoskeletal purpose   
+Sanskrit vocabulary of each pose with pronunciation   
+Physical description/breakdown of each pose   
+Benefits and risks of each   
+Teaching action cues of each   
+**Adjustments **  
+criteria   
+safety   
+when to and when not to   
+**Sequencing **  
+rules   
+anatomical issues   
+execution   
+**Scripting **  
+developing scripts (languaging your sequence)   
+preparing for teaching
