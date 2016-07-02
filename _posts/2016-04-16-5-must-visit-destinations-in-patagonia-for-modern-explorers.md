@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-02T01:20:49.332Z'
+datePublished: '2016-07-02T02:12:53.774Z'
 sourcePath: >-
   _posts/2016-04-16-5-must-visit-destinations-in-patagonia-for-modern-explorers.md
 inFeed: true
@@ -18,20 +18,15 @@ keywords:
   - tierra
 related: []
 author: []
-dateModified: '2016-07-02T01:20:48.686Z'
-title: 5 must-visit destinations in Patagonia for modern explorers
+dateModified: '2016-07-02T02:04:26.254Z'
+title: The Psychological Practice of Yoga
 app_links: []
 publisher:
   url: 'http://mashable.com'
   name: Mashable
   favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
   domain: mashable.com
-description: >-
-  Patagonia's 400,000 square miles are home to some of the most beautiful and
-  diverse landscapes on the planet. It's an ideal destination for adventure
-  seekers and one of our top destinations for travel in 2016. This expansive
-  area of land, spread across southern Chile and Argentina, is too much to take
-  in all at once.
+description: '11 day intensive – $1500 '
 inLanguage: en
 inNav: false
 starred: false
@@ -39,4 +34,23 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>5 must-visit destinations in Patagonia for modern explorers</h1><p>Patagonia's 400,000 square miles are home to some of the most beautiful and diverse landscapes on the planet. It's an ideal destination for adventure seekers and one of our top destinations for travel in 2016. This expansive area of land, spread across southern Chile and Argentina, is too much to take in all at once.</p><img src="http://rack.3.mshcdn.com/media/ZgkyMDE2LzAyLzE0LzU1L0dldHR5SW1hZ2VzLjRjMDk4LmpwZwpwCXRodW1iCTEyMDB4OTYwMD4/0546507a/f44/GettyImages-460399838.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d17eecc3-67e1-4a5f-b19e-3105662622d1.jpg)
+
+# The Psychological Practice of Yoga
+
+11 day intensive -- $1500 
+
+B**ecome a present, fearless, connected, calm and charismatic teacher **
+
+* Introduction to teacher training 
+* Atma Yoga theory of alignment (a way to move through everyday life) 
+* Titikshiva (the willingness to feel everything) the fulcrum of yoga practice 
+* Himalayan yoga -- how to rewire the nervous system for courage 
+* The theory of mantras 
+* Sadhana -- the daily practice of meditation →turning stress into strength 
+* Internal Dialogue -- understanding how the mind works 
+* Roles as Yoga 
+* The grammar of roles -- character 
+* The grammar of roles -- objective 
+* The grammar of roles -- emotion 
+* Rehearsal as Yoga
