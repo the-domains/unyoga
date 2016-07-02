@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-02T01:20:49.336Z'
+datePublished: '2016-07-02T01:44:17.439Z'
 sourcePath: >-
   _posts/2016-04-15-27-travel-gadgets-that-are-too-cool-to-resist-or-travel-away.md
 inFeed: true
@@ -28,8 +28,8 @@ author:
   - name: Greg
     url: 'http://www.thetinmill.com'
     avatar: {}
-dateModified: '2016-07-02T01:20:48.981Z'
-title: 27 Travel Gadgets That Are Too Cool To Resist | Travel Away
+dateModified: '2016-07-02T01:38:21.159Z'
+title: ''
 app_links: []
 publisher:
   name: Travel Away
@@ -38,11 +38,12 @@ publisher:
   favicon: >-
     http://1dib1q3k1s3e11a5av3bhlnb.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/cropped-newfavta-192x192.png
 description: >-
-  Some of them are just too fun to miss, others add extra convenience to our
-  experiences, yet others open up new realms in the world of technology. You've
-  guessed it: we're talking about travel gadgets! These smart tools that have
-  forever changed the way we experience the world are life-savers for today's
-  travelers.
+  History  5000 years ago  150 years ago  40 years ago  Today    Philosophy  Six
+  Sanskrit philosophies one goal  Vedanta – a progressive and adaptive ideology 
+  Yoga – Patanjali the ancient path, Bhakti the modern path  Samkya – a model
+  for virtual reality    Anatomy  The musculoskeletal system  Breathing  The
+  nervous system  Bio-individuality    Developing a meditation practice 
+  grounding and centering  pranayama  nada yoga  mantra practice
 inLanguage: en
 inNav: false
 starred: false
@@ -50,4 +51,28 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>27 Travel Gadgets That Are Too Cool To Resist | Travel Away</h1><p>Some of them are just too fun to miss, others add extra convenience to our experiences, yet others open up new realms in the world of technology. You've guessed it: we're talking about travel gadgets! These smart tools that have forever changed the way we experience the world are life-savers for today's travelers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f29e685343d4bb9c775e245ad0943de445b2df7c.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/943819b6-7d57-42cf-9f88-247b4296b45f.jpg)
+
+**History**  
+5000 years ago   
+150 years ago   
+40 years ago   
+Today   
+  
+**Philosophy**  
+Six Sanskrit philosophies one goal   
+Vedanta -- a progressive and adaptive ideology   
+Yoga -- Patanjali the ancient path, Bhakti the modern path   
+Samkya -- a model for virtual reality   
+  
+**Anatomy **  
+The musculoskeletal system   
+Breathing   
+The nervous system   
+Bio-individuality   
+  
+**Developing a meditation practice **  
+grounding and centering   
+pranayama   
+nada yoga   
+mantra practice
